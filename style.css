@@ -1,0 +1,23 @@
+body {
+    box-sizing: border-box;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+}
+
+.data {
+    display: none;
+}
+
+.g-signin2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.policies{
+    background-color: black;
+    color: aqua;
+}
